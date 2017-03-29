@@ -1,0 +1,15 @@
+jonathan mills node express app course notes
+
+https://app.pluralsight.com/player?course=nodejs-express-web-applications&author=jonathan-mills&name=nodejs-express-web-applications-m1&clip=5&mode=live
+
+brackets ctrl shift L to beautify
+cl tab = snippet for console log
+
+===========main points=============
+npm init 
+npm install express  --save  //this argument means also added to package.json
+add npm start to package.json
+
+===================================
+^ carat = for version  ^4.14 means will go to 4.15 ~4.13.3 goes to 4.13.4  
+no symbol means do not update at all

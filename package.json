@@ -1,0 +1,23 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willworth/jmillsnode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willworth/jmillsnode/issues"
+  },
+  "homepage": "https://github.com/willworth/jmillsnode#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
